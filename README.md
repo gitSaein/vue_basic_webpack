@@ -25,3 +25,12 @@ syntax: [Vue](https://kr.vuejs.org/v2/guide/single-file-components.html)
 * webpack configuration
  *link: [Webpack](https://webpack.js.org/configuration)
 ***
+
+
+# yarn build & run dev
+
+## 2019-10-06
+
+
+* config
+syntax: [mode: dev](https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/)
