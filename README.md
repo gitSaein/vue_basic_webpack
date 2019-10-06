@@ -4,7 +4,7 @@
 ## 2019-09-15
 
 
-###Babel
+### Babel
 
 * vue
 syntax: [Vue](https://kr.vuejs.org/v2/guide/single-file-components.html)
@@ -32,10 +32,12 @@ syntax: [Vue](https://kr.vuejs.org/v2/guide/single-file-components.html)
 ## 2019-10-06
 
 
-###yarn build & run dev
+### yarn build & run dev
 
 
 * config 
 syntax: [mode: dev](https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/)
+
+
 syntax: [index.html](https://webpack.js.org/plugins/html-webpack-plugin/)
 
